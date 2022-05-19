@@ -1,7 +1,7 @@
 {
-    "name": "mremi/url-shortener-bundle",
+    "name": "aaguilar/url-shortener-bundle",
     "type": "symfony-bundle",
-    "description": "Implementation of UrlShortener library for Symfony2/Symfony3",
+    "description": "Implementation of UrlShortener library for Symfony2/Symfony3/Symfony4",
     "keywords": ["Symfony2", "Symfony3", "url", "shortener", "api"],
     "homepage": "https://github.com/mremi/UrlShortenerBundle",
     "license": "MIT",
